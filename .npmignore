@@ -1,0 +1,4 @@
+*.markdown
+*.md
+.git*
+Makefile

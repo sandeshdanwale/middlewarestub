@@ -1,0 +1,33 @@
+{
+  "name": "middlewarestub",
+  "version": "0.0.1",
+  "description": "middleware stub",
+  "keywords": [
+    "framework",
+    "web",
+    "middleware",
+    "stub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sandeshdanwale/MiddlewareStub.git"
+  },
+  "author": {
+    "name": "Sandesh Danwale"
+  },
+  "dependencies": {
+    "merge-descriptors": "0.0.1"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "readmeFilename": "Readme.md"
+}
