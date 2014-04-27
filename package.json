@@ -6,7 +6,10 @@
     "framework",
     "web",
     "middleware",
-    "stub"
+    "stub",
+    "connect",
+    "regular expression",
+    "regexp"
   ],
   "repository": {
     "type": "git",
